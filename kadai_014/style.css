@@ -1,5 +1,5 @@
 html    {
-    font-size: 48px;
+    font-size: 20px;
 }
 body    {
     font-family: "Arial", "Meiryo", sans-serif;
@@ -11,7 +11,7 @@ h1  {
     font-weight: 400;
     font-style: normal;
     font-size: 2rem;
-    letter-spacing: 1.2;
+    letter-spacing: 1.2em;
     text-shadow: 1px 1px 1px gray;
     border-bottom: solid 3px rgb(115, 115, 114);
 }
